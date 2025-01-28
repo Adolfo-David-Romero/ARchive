@@ -27,7 +27,7 @@ Getting Started
 1.  Clone this repository:
 
     ```
-    git clone https://github.com/yourusername/ARchive.git
+    git clone https://github.com/Adolfo-David-Romero/ARchive.git
     ```
 
 2.  Open the `ARchive.xcodeproj` file in Xcode.
